@@ -79,6 +79,8 @@ namespace YesOk
             }
             Console.WriteLine("bye bye");
             Console.WriteLine("some changes");
+            //sakld
+            Console.WriteLine("hello");
         }
     }
 }
