@@ -78,6 +78,7 @@ namespace YesOk
                 }
             }
             Console.WriteLine("bye bye");
+            Console.WriteLine("some changes");
         }
     }
 }
